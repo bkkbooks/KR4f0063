@@ -7936,6 +7936,7 @@ markers:
   - {type: line-break, offset: 27159, content: '', id: KR4f0063_SBCK_001-1a03}
   - {type: indent, offset: 27159, content: 　　, id: KR4f0063_krp_001-bkkind56}
   - {type: punctuation, offset: 27162, content: (, id: KR4f0063_krp_001-bkkpn1}
+  - {type: voice, offset: 27162, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 27163, content: ), id: KR4f0063_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 27163, content: '
 
@@ -7964,6 +7965,7 @@ markers:
   - {type: line-break, offset: 27184, content: '', id: KR4f0063_SBCK_001-1a08}
   - {type: indent, offset: 27184, content: 　　, id: KR4f0063_krp_001-bkkind61}
   - {type: punctuation, offset: 27192, content: (, id: KR4f0063_krp_001-bkkpn3}
+  - {type: voice, offset: 27192, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 27193, content: ), id: KR4f0063_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 27193, content: '
 
@@ -8041,6 +8043,7 @@ markers:
   - {type: line-break, offset: 27262, content: '', id: KR4f0063_SBCK_001-2a01}
   - {type: indent, offset: 27262, content: 　　　, id: KR4f0063_krp_001-bkkind74}
   - {type: punctuation, offset: 27270, content: (, id: KR4f0063_krp_001-bkkpn5}
+  - {type: voice, offset: 27270, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 27271, content: ), id: KR4f0063_krp_001-bkkpn6}
   - {type: 'kr:newline', offset: 27271, content: '
 
@@ -10201,6 +10204,7 @@ markers:
       ', id: KR4f0063_krp_001-bkkkrnewl1963}
   - {type: line-break, offset: 35314, content: '', id: KR4f0063_SBCK_001-28b02}
   - {type: punctuation, offset: 35319, content: (, id: KR4f0063_krp_001-bkkpn7}
+  - {type: voice, offset: 35319, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 35321, content: ), id: KR4f0063_krp_001-bkkpn8}
   - {type: 'kr:newline', offset: 35336, content: '
 
@@ -13240,4 +13244,4 @@ markers:
 
       ', id: KR4f0063_krp_001-bkkkrnewl2615}
   back: []
-hash: sha256:a04bc71d1caf31b285daec3e33a81fb9d67f25119e275425f93ca3a6d7c2bd8f
+hash: sha256:4f473152714de3962399da1aa3c6471daa631bf359c948813c75349a63d82b63

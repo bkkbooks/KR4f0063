@@ -6826,6 +6826,7 @@ markers:
   - {type: line-break, offset: 27159, content: '', id: KR4f0063_SBCK_001-1a03}
   - {type: indent, offset: 27159, content: 　　, id: KR4f0063_SBCK_001-bkkind56}
   - {type: punctuation, offset: 27162, content: (, id: KR4f0063_SBCK_001-bkkpn1}
+  - {type: voice, offset: 27162, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 27163, content: ), id: KR4f0063_SBCK_001-bkkpn2}
   - {type: 'kr:newline', offset: 27163, content: '
 
@@ -6853,6 +6854,7 @@ markers:
   - {type: line-break, offset: 27184, content: '', id: KR4f0063_SBCK_001-1a08}
   - {type: indent, offset: 27184, content: 　　, id: KR4f0063_SBCK_001-bkkind61}
   - {type: punctuation, offset: 27192, content: (, id: KR4f0063_SBCK_001-bkkpn3}
+  - {type: voice, offset: 27192, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 27193, content: ), id: KR4f0063_SBCK_001-bkkpn4}
   - {type: 'kr:newline', offset: 27193, content: '
 
@@ -6928,6 +6930,7 @@ markers:
   - {type: line-break, offset: 27262, content: '', id: KR4f0063_SBCK_001-2a01}
   - {type: indent, offset: 27262, content: 　　　, id: KR4f0063_SBCK_001-bkkind74}
   - {type: punctuation, offset: 27270, content: (, id: KR4f0063_SBCK_001-bkkpn5}
+  - {type: voice, offset: 27270, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 27271, content: ), id: KR4f0063_SBCK_001-bkkpn6}
   - {type: 'kr:newline', offset: 27271, content: '
 
@@ -8764,6 +8767,7 @@ markers:
       ', id: KR4f0063_SBCK_001-bkkkrnewl1963}
   - {type: line-break, offset: 35314, content: '', id: KR4f0063_SBCK_001-28b02}
   - {type: punctuation, offset: 35319, content: (, id: KR4f0063_SBCK_001-bkkpn7}
+  - {type: voice, offset: 35319, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 35321, content: ), id: KR4f0063_SBCK_001-bkkpn8}
   - {type: 'kr:newline', offset: 35336, content: '
 
@@ -11371,4 +11375,4 @@ markers:
 
       ', id: KR4f0063_SBCK_001-bkkkrnewl2615}
   back: []
-hash: sha256:e11417582f45b8bcd151c929a502d3074fe3a56561f9ea4966d401e105186ba0
+hash: sha256:769716085148dbdf710c5888df9821ab02c53dae386fdaf1c700d41ebc9b9a86
